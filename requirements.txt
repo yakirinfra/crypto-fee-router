@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+web3
+python-dotenv
+pydantic
+requests
+streamlit
+streamlit-autorefresh
+pandas
